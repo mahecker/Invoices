@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/Log4J2/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/Log4J2/log4j-core-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/Log4J2/log4j-jcl-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/MySQL/mysql-connector-java-5.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/avalon-framework-4.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/batik-all-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/fop.jar"/>
+	<classpathentry kind="lib" path="lib/FOP/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
